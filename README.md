@@ -155,4 +155,4 @@ League Akari 的实现参考了许多现有的优秀开源项目，这些项目�
 
 本声明旨在全面而详尽地通知用户关于本软件使用的可能风险，以便用户在使用过程中做出充分的风险评估和明智的决策。感谢您的关注，同时敬请遵守相关游戏规则和使用指南，确保一种健康和公平的游戏环境。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Hanxven/LeagueAkari&type=Date)](https://star-history.com/#Hanxven/LeagueAkari&Date)
+[//]: # ([![Star History Chart]&#40;https://api.star-history.com/svg?repos=Hanxven/LeagueAkari&type=Date&#41;]&#40;https://star-history.com/#Hanxven/LeagueAkari&Date&#41;)
