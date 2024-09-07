@@ -20,7 +20,7 @@
 
 # 1. League Akari
 
-Gitee 镜像站点：[https://gitee.com/Hanxven/LeagueAkari](https://gitee.com/Hanxven/LeagueAkari)
+
 
 ## 1.1 已支持功能
 
