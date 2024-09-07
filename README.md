@@ -10,10 +10,10 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/Hanxven/LeagueAkari/releases"><img src="https://img.shields.io/github/release/Hanxven/LeagueAkari.svg?style=flat-square&maxAge=600" alt="Downloads"></a>
-    <a href="https://github.com/Hanxven/LeagueAkari/releases">
+    <a href="https://github.com/QuantumLin/LeagueAkari/releases"><img src="https://img.shields.io/github/release/Hanxven/LeagueAkari.svg?style=flat-square&maxAge=600" alt="Downloads"></a>
+    <a href="https://github.com/QuantumLin/LeagueAkari/releases">
     <img src="https://img.shields.io/github/downloads/Hanxven/LeagueAkari/total?style=flat&label=Downloads"></a>
-    <a href="https://github.com/Hanxven/LeagueAkari/stargazers">
+    <a href="https://github.com/QuantumLin/LeagueAkari/stargazers">
     <img src="https://img.shields.io/github/stars/Hanxven/LeagueAkari?style=flat&label=Stars">
   </a>
 </p>
